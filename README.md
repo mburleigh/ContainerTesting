@@ -11,6 +11,8 @@ Create branch policy to require QA to sign off to merge branch:
 
 ![image.png](/.attachments/image-95ba4ba4-3079-4cf3-8762-02219547973a.png)
 
+![image.png](/.attachments/image-1ea9eb6c-e438-455b-a70b-e6f12ad76e05.png)
+
 Add a web hook that will get called when a PR is changed:
 
 1. Click on project settings (gear icon in lower left)
