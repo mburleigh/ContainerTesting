@@ -1,9 +1,8 @@
 _calibri/20_ 
 
-1. [Create Branch Policy2](/Create-Branch-Policy2)
+1. [Create Branch Policy](/Create-Branch-Policy)
 1. [Deploy Azure Function](/Deploy-Azure-Function)
 1. [Add Web Hook](/Add-Web-Hook)
-1. [Personal Access Token (PAT)](/Personal-Access-Token-\(PAT\))
 1. [Pull Request Web Hook](/Pull-Request-Web-Hook)
 
 Add a web hook that will get called when a PR is changed:
