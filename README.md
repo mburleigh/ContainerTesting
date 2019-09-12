@@ -1,5 +1,9 @@
 # Container Based Testing
 
+##Assumptions:
+* Existing code repository
+* Exisitng build & release pipelines
+
 Deploy Azure Functions
 
 Create container build pipeline
