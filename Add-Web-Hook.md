@@ -23,4 +23,4 @@ Set up the web hook Action:
 1. Put the Build ID in the header ([how to find the build id](/Find-the-build-id))
 1. Put an Azure PAT with build permissions in the header ([create PAT](/Personal-Access-Token-\(PAT\)))
 
-![image.png](/.attachments/image-8fc5ae08-944b-49b6-8ac6-25a8db9cf93e.png)
+![image.png](/.attachments/service hooks settings.png)
