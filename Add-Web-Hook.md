@@ -20,7 +20,8 @@ Set up the web hook Trigger:
 Set up the web hook Action:
 
 1. Enter the URL of the Pull Request Changed function (including the function key)
-1. Put the Build ID in the header ([how to find the build id](/Find-the-build-id))
+1. Specify the Build ID in the header ([how to find the build id](/Find-the-build-id))
 1. Put an Azure PAT with build permissions in the header ([create PAT](/Personal-Access-Token-\(PAT\)))
+1. Specify the Build Agent in the header (should match the pipeline build agent) 
 
-![image.png](/.attachments/service hooks settings.png)
+![image.png](/.attachments/service%20hooks%20settings.png)
