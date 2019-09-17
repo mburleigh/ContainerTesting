@@ -10,7 +10,6 @@
   * CleanupAndCompletePR
   * auth file
 * Add a dockerfile to existing repository
-* [Set up policy on target branch](https://github.com/mburleigh/ContainerTesting/blob/master/Create-Branch-Policy.md)
 * Create container build pipeline
   * Required variables:
     * aciResourceGroup (resource group of ACI in Azure)
@@ -24,6 +23,7 @@
   * Push image to ACR
     * ACR auth token
   * Create instance in ACI
+* [Set up policy on target branch](https://github.com/mburleigh/ContainerTesting/blob/master/Create-Branch-Policy.md)
 * [Create Webhook for pull request event](https://github.com/mburleigh/ContainerTesting/blob/master/Add-Web-Hook.md) (created/changed)
   * Link to PullRequestChanged function
   * Add headers:
